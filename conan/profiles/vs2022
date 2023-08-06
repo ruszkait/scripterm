@@ -1,0 +1,8 @@
+[settings]
+os=Windows
+arch=x86_64
+compiler=Visual Studio
+compiler.version=17
+compiler.cppstd=20
+compiler.toolset=v143
+build_type=Release
